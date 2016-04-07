@@ -910,7 +910,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 			&:before {
 				display: block;
-				color: _palette(accent2, bg);
+				color: _palette(accent5, fg-bold);
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -1733,7 +1733,8 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	#footer {
 		@include padding(6em, 0);
-		background-color: darken(_palette(bg), 8);
+		background-image: url('../images/latvian-pattern.png');
+		background-color: #9E3039;//darken(_palette(bg), 8);
 		text-align: center;
 
 		.icons {
