@@ -1729,8 +1729,14 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
-/* Footer */
 
+#one {
+		background-image: url('../images/latvian-pattern.png');
+		background-color: #9E3039;//darken(_palette(bg), 8);
+	}
+
+
+/* Footer */
 	#footer {
 		@include padding(6em, 0);
 		background-image: url('../images/latvian-pattern.png');
