@@ -4,7 +4,8 @@ title: Travellers
 permalink: /travellers
 ---
 
-Here you will find some useful information regarding traveling to Riga, Latvia
+Travelling to Riga, Latvia
+==========================
 
 First of all, Riga is the Capital and the largest city of Latvia, and soon you
 will find out that the only Airport in Latvia is located in ... Riga. We usually
@@ -13,7 +14,8 @@ some of the best local sites are <http://letasaviobiletes.lv> and
 <http://lidot.lv>. We are happy to help you find your tickets, therefore, please
 feel free to get in touch with us.
 
-Travelling from the United States:
+Travelling from the United States
+---------------------------------
 
 We suggest you book your tickets in advance and ask us if you are unsure about
 the airlines that operate within the Baltic States. We usually choose Finnair,
@@ -28,7 +30,8 @@ wish to familiarize yourself with some useful travel information:
 
 <https://travel.state.gov/content/passports/en/country/latvia.html>
 
-Travelling from the United Kingdom and other European countries:
+Travelling from the United Kingdom and other European countries
+---------------------------------------------------------------
 
 If you are travelling to Riga from the United Kingdom we suggest you take a
 plane, otherwise it might take you up to 40 hours to drive to Latvia. Best tip
