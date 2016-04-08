@@ -7,11 +7,8 @@ description: |
   Alise and Blake<br />
   September 12th, 2017<br />
   Riga, Latvia
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: ""
+url: "https://www.aliseandblake.com"
 social:
   #twitter: https://twitter.com/<username>
   #github: https://github.com/aliseandblake/aliseandblake.github.io
