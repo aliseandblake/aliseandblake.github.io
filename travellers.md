@@ -39,5 +39,5 @@ Edinburgh, is  Norwegian Airlines, however, a transfer in Oslo is usually part
 of their journey to Latvia.
 
 If you are travelling from any other European country, we suggest taking a look
-at <http://airbaltic.com>, as they do direct flights to many European cities including
-Prague and Vilnius.
+at <http://airbaltic.com>, as they do direct flights to many European cities
+including Prague and Vilnius.
