@@ -14,6 +14,8 @@ twin, single, family), and we will arrange the best option for you. However, if
 you wish to travel to Latvia a few days before the wedding, or stay longer after
 the wedding, there are many options including hotels, hostels, and guest-houses.
 
+![Riga](../images/riga.jpg)
+
 We strongly recommend opting for a hotel in Riga city center, as that will allow
 you to explore the city, and give easy access to transportation if you wish to
 travel outside the capital. We suggest you check the options on
@@ -21,6 +23,8 @@ travel outside the capital. We suggest you check the options on
 - we will try to help. Just to give a rough estimate, the prices for a five star
 hotel range from 200 to 220 euros per night, for a four star from 40 to 140
 euros per night, and for a three star hotel 30 to 70 euros per night.
+
+![Jurmala](../images/jurmala.jpg)
 
 However, if you would like to be away from the crowds, and stay near the beach,
 the resort city Jurmala is a good option. Its close proximity to Riga

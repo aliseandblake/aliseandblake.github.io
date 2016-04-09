@@ -206,6 +206,11 @@ $baseurl: '{{ site.baseurl }}/images';
 
 /* Section/Article */
 
+  article img {
+    max-width: 60em;
+    max-height: 40em;
+  }
+
   section, article {
     &.special {
       text-align: center;
