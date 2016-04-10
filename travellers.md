@@ -7,24 +7,22 @@ permalink: /travellers
 Travelling to Riga, Latvia
 ==========================
 
-First of all, Riga is the Capital and the largest city of Latvia, and home to
-the only Airport in Latvia. We usually use <http://skyscanner.com> search engine
-to find our tickets to Latvia, but some of the best local sites are
-<http://letasaviobiletes.lv> and <http://lidot.lv>. We are happy to help you
-find your tickets - therefore, please feel free to contact us.
+Riga is the Capital and the largest city of Latvia, and home to its only
+Airport. We suggesting using [skyscanner.com](http://skyscanner.com) to search
+for flights to and from Latvia. We are happy to help you find your tickets, so
+please feel free to contact us.
 
 Travelling from the United States
 ---------------------------------
 
-We suggest you book your tickets in advance, and ask us if you are unsure about
-the airlines that operate within the Baltic States. We usually choose Finnair,
-Norwegian Airlines, or Scandinavian Airlines, and their partners Air Baltic when
-travelling to and from US. However, there are many more options but please try
-to avoid Russian airline Aeroflot if you do not wish to be stuck in the crowded
-Moscow Sheremetyevo airport.
+We suggest booking tickets at least six months in advance. We usually choose to
+fly by Finnair, Norwegian Airlines, or Scandinavian Airlines, and their partners
+Air Baltic when travelling to and from the US. There are many more options, but
+we suggest avoiding Aeroflot airlines, to avoid a layover in the crowded Moscow
+airport.
 
-Since Latvia is a party to the Schengen Agreement, you do not need visa to
-travel to Latvia, and stay there for up to ninety days. Please see the page
+Since Latvia is a party to the Schengen Agreement, Americans do not need a visa
+to travel to Latvia, and stay there for up to ninety days. Please see the page
 below if you wish to familiarize yourself with some useful travel information:
 
 <https://travel.state.gov/content/passports/en/country/latvia.html>
@@ -32,14 +30,13 @@ below if you wish to familiarize yourself with some useful travel information:
 Travelling from the United Kingdom and other European countries
 ---------------------------------------------------------------
 
-If you are travelling to Riga from the United Kingdom we suggest flying,
-otherwise it might take you up to 40 hours to drive to Latvia. Best tip would be
-to pick a direct flight, since that would save you time and energy. There are
-direct flights to Riga from London, Glasgow, and other major cities, and are
-usually operated by Ryanair. Another good option, if you are travelling from
-Edinburgh, is Norwegian Airlines, however, a transfer in Oslo is usually part
-of their journey to Latvia.
+If you are travelling to Riga from the United Kingdom we strongly suggest
+flying. We suggest direct flights, since there are many inexpensive options.
+There are direct flights to Riga from London, Glasgow, and other major cities,
+and are usually operated by Ryanair. Another good option, if you are travelling
+from Edinburgh, is Norwegian Airlines - however, a transfer in Oslo is usually
+part of their journey to Latvia.
 
-If you are travelling from any other European country, we suggest taking a look
-at <http://airbaltic.com>, as they do direct flights to many European cities
-including Prague and Vilnius.
+If you are travelling from any other European country, we suggest looking at
+[airbaltic.com](http://airbaltic.com), as they have direct flights from many
+European cities, including Prague and Vilnius.
