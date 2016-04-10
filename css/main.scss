@@ -1638,8 +1638,9 @@ $baseurl: '{{ site.baseurl }}/images';
 
       header {
         @include vendor('order', '1');
-        padding-right: 3em;
-        width: 70%;
+        //padding-right: 3em;
+        //width: 70%;
+        margin: 0 auto;
 
         p {
           color: inherit;
