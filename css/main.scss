@@ -509,7 +509,7 @@ $baseurl: '{{ site.baseurl }}/images';
     max-width: 100%;
 
     @include breakpoint(small) {
-      font-size: 30ems;
+      max-width: 30em;
     }
   }
 
