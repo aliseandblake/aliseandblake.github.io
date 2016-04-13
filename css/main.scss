@@ -505,6 +505,10 @@ $baseurl: '{{ site.baseurl }}/images';
 
 /* Image */
 
+  .embedded {
+    max-width: 500px;
+  }
+
   .image {
     border-radius: 3px;
     border: 0;
