@@ -511,6 +511,10 @@ $baseurl: '{{ site.baseurl }}/images';
     @include breakpoint(small) {
       max-width: 30em;
     }
+
+    @include breakpoint(xlarge) {
+      max-width: 30em;
+    }
   }
 
   .image {
