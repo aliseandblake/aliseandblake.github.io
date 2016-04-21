@@ -508,7 +508,7 @@ $baseurl: '{{ site.baseurl }}/images';
   .embedded {
     max-width: 30em;
 
-    @include breakpoint(medium) {
+    @include breakpoint(xsmall) {
       max-width: 100%;
     }
   }
