@@ -16,14 +16,13 @@ Travelling from the United States
 ---------------------------------
 
 We suggest booking tickets at least six months in advance. We usually choose to
-fly by Finnair, Norwegian Airlines, or Scandinavian Airlines, and their partners
-Air Baltic when travelling to and from the US. There are many more options, but
-we suggest avoiding Aeroflot airlines, to avoid a layover in the crowded Moscow
-airport.
+fly by Finnair, Norwegian Airlines, or Scandinavian Airlines when travelling to
+and from the US. There are many more options, but we suggest avoiding Aeroflot
+airlines, to avoid a layover in the crowded Moscow airport.
 
 Since Latvia is a party to the Schengen Agreement, Americans do not need a visa
-to travel to Latvia, and stay there for up to ninety days. Please see the page
-below if you wish to familiarize yourself with some useful travel information:
+to travel to Latvia, and stay there for up to ninety days. The page below may be
+useful to familiarize yourself with some useful travel information:
 
 <https://travel.state.gov/content/passports/en/country/latvia.html>
 
@@ -39,4 +38,4 @@ part of their journey to Latvia.
 
 If you are travelling from any other European country, we suggest looking at
 [airbaltic.com](http://airbaltic.com), as they have direct flights from many
-European cities, including Prague and Vilnius.
+European cities, including Prague, Paris, and Vilnius.

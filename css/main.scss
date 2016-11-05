@@ -907,18 +907,22 @@ $baseurl: '{{ site.baseurl }}/images';
       position: relative;
       text-align: left;
       width: 50%;
+      color: #fff;
 
-      @for $i from 1 through _misc(max-features) {
-        $j: 0.035 * $i;
+      background-color: #322e2b;
+      border: 1em solid #FDEADA;
 
-        &:nth-child(#{$i}) {
-          background-color: rgba(0,0,0, $j);
-        }
+      h3 {
+        color: #fdfcda !important;
+      }
+
+      p {
+        letter-spacing: 0em;
       }
 
       &:before {
         display: block;
-        color: _palette(accent5, fg-bold);
+        color: #fdfcda;
         position: absolute;
         left: 1.75em;
         top: 2.75em;
@@ -1240,6 +1244,15 @@ $baseurl: '{{ site.baseurl }}/images';
       width: 60em;
       margin: 0 auto;
 
+      em {
+        margin: 0 5em -1.5em;
+        font-size: 0.8em;
+        display: block;
+        letter-spacing: 0;
+        line-height: 110%;
+        font-style: normal;
+      }
+
       @include breakpoint(large) {
         width: 90%;
       }
@@ -1389,7 +1402,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
   #header {
     @include vendor('transition', 'background-color #{_duration(transitions)} ease');
-    background: mix(_palette(accent5, bg), #000, 80%);
+    background: rgba(0, 0, 0, 0.75);
     height: 3em;
     left: 0;
     line-height: 3em;
