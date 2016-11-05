@@ -25,7 +25,9 @@ Here are a few recommended hotels, from which we plan to provide pickup on the
 wedding day. Please note that we are considering group rate options and hope to
 update this space with new information.
 
-### [Grand Palace Hotel](http://grandpalaceriga.com/)
+### Grand Palace Hotel
+
+[http://grandpalaceriga.com/](http://grandpalaceriga.com/)
 
 *Built in 1877 as the Central Bank of Latvia, it was turned into a boutique
 5-star superior hotel in the year 2000 offering a place of warmth and comfort,
@@ -46,7 +48,9 @@ the magnificent Grand Palace Hotel is located in the business, shopping and
 sightseeing district - Riga Old Town. In May 2015 the official rating for the
 hotel has been upgraded from 5-star to 5-star Superior.*
 
-### [Hotel Bergs](http://www.hotelbergs.lv/)
+### Hotel Bergs
+
+[http://www.hotelbergs.lv/](http://www.hotelbergs.lv/)
 
 *Contemporary chic in the center of Riga- Hotel Bergs is a smart, five-star
 haven in the charming historical quarter known as the Bergs Bazaar with boutique
@@ -60,7 +64,9 @@ meeting lounges and a penthouse event space with great city views.*
 district, visit Riga's Central Market, the largest open-air market in Europe, or
 enjoy a spectacular night at the opera.*
 
-### [Neiburgs Hotel](http://www.neiburgs.com/)
+### Neiburgs Hotel
+
+[http://www.neiburgs.com/](http://www.neiburgs.com/)
 
 *Housed in a listed Art Nouveau building in the very heart of the Old Town of
 Riga, in a quiet and picturesque little street just off the Dome Cathedral - a
@@ -70,7 +76,9 @@ design; spacious and light apartments; comfortable bathrooms; splendid views of
 the Old Town; comfort, friendly and hospitable service, as well one of the
 city's most popular restaurants.*
 
-### [Radisson Blu Elizabete Hotel](https://www.radissonblu.com/en/elizabetehotel-riga)
+### Radisson Blu Elizabete Hotel
+
+[https://www.radissonblu.com/en/elizabetehotel-riga](https://www.radissonblu.com/en/elizabetehotel-riga)
 
 *Walk to top attractions such as the Freedom Monument, the Latvian National
 Museum of Art and Riga Cathedral from the Radisson Blu Elizabete Hotel, Riga.
@@ -85,7 +93,9 @@ our Nordic sauna or make requests with ease using One Touch Service. If you're
 hosting a gathering in Riga, ask about our 2 state-of-the-art meeting rooms with
 modern audiovisual capabilities and full-service catering options.*
 
-### [Albert Hotel](http://www.alberthotel.lv/)
+### Albert Hotel
+
+[http://www.alberthotel.lv/](http://www.alberthotel.lv/)
 
 *Set along a bustling cobblestone street, this tower hotel with an imposing,
 functionalist-style exterior, is a 6-minute walk from the Latvian National
