@@ -902,7 +902,7 @@ $baseurl: '{{ site.baseurl }}/images';
     width: 100%;
 
     li {
-      @include padding(4em, 4em, (0,0,0,2em));
+      padding: 4em;
       display: block;
       position: relative;
       text-align: left;
@@ -1253,6 +1253,17 @@ $baseurl: '{{ site.baseurl }}/images';
         font-style: normal;
       }
 
+      strong {
+        margin: -2em 1em;
+        display: block;
+        font-size: 0.7em;
+        font-weight: inherit;
+      }
+
+      > h3 {
+        margin: 3em 0 1em;
+      }
+
       @include breakpoint(large) {
         width: 90%;
       }
@@ -1515,6 +1526,7 @@ $baseurl: '{{ site.baseurl }}/images';
     overflow: hidden;
     position: relative;
     text-align: center;
+    text-shadow: 0 2px 2px #000;
 
     h2 {
       @include vendor('transform', 'scale(1)');
@@ -1653,6 +1665,8 @@ $baseurl: '{{ site.baseurl }}/images';
 /* CTA */
 
   #cta {
+    text-shadow: 0 2px 2px #000;
+
     .inner {
       @include vendor('display', 'flex');
       max-width: 45em;

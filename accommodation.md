@@ -27,7 +27,7 @@ update this space with new information.
 
 ### Grand Palace Hotel
 
-[http://grandpalaceriga.com/](http://grandpalaceriga.com/)
+**[http://grandpalaceriga.com/](http://grandpalaceriga.com/) - 5 Star Luxury Hotel, 4.5/5 on Trip Advisor**
 
 *Built in 1877 as the Central Bank of Latvia, it was turned into a boutique
 5-star superior hotel in the year 2000 offering a place of warmth and comfort,
@@ -50,7 +50,7 @@ hotel has been upgraded from 5-star to 5-star Superior.*
 
 ### Hotel Bergs
 
-[http://www.hotelbergs.lv/](http://www.hotelbergs.lv/)
+**[http://www.hotelbergs.lv/](http://www.hotelbergs.lv/) - 5 Star Luxury Hotel, 4.5/5 on Trip Advisor**
 
 *Contemporary chic in the center of Riga- Hotel Bergs is a smart, five-star
 haven in the charming historical quarter known as the Bergs Bazaar with boutique
@@ -66,7 +66,7 @@ enjoy a spectacular night at the opera.*
 
 ### Neiburgs Hotel
 
-[http://www.neiburgs.com/](http://www.neiburgs.com/)
+**[http://www.neiburgs.com/](http://www.neiburgs.com/) - 4 Star Luxury Hotel, 4.5/5 on Trip Advisor**
 
 *Housed in a listed Art Nouveau building in the very heart of the Old Town of
 Riga, in a quiet and picturesque little street just off the Dome Cathedral - a
@@ -78,7 +78,7 @@ city's most popular restaurants.*
 
 ### Radisson Blu Elizabete Hotel
 
-[https://www.radissonblu.com/en/elizabetehotel-riga](https://www.radissonblu.com/en/elizabetehotel-riga)
+**[https://www.radissonblu.com/en/elizabetehotel-riga](https://www.radissonblu.com/en/elizabetehotel-riga) - 4 Star Mid-range Hotel, 4.5/5 on Trip Advisor**
 
 *Walk to top attractions such as the Freedom Monument, the Latvian National
 Museum of Art and Riga Cathedral from the Radisson Blu Elizabete Hotel, Riga.
@@ -95,7 +95,7 @@ modern audiovisual capabilities and full-service catering options.*
 
 ### Albert Hotel
 
-[http://www.alberthotel.lv/](http://www.alberthotel.lv/)
+**[http://www.alberthotel.lv/](http://www.alberthotel.lv/) - 4 Star Mid-range Hotel, 4/5 on Trip Advisor**
 
 *Set along a bustling cobblestone street, this tower hotel with an imposing,
 functionalist-style exterior, is a 6-minute walk from the Latvian National

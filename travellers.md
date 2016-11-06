@@ -29,13 +29,9 @@ useful to familiarize yourself with some useful travel information:
 Travelling from the United Kingdom and other European countries
 ---------------------------------------------------------------
 
-If you are travelling to Riga from the United Kingdom we strongly suggest
-flying. We suggest direct flights, since there are many inexpensive options.
-There are direct flights to Riga from London, Glasgow, and other major cities,
-and are usually operated by Ryanair. Another good option, if you are travelling
-from Edinburgh, is Norwegian Airlines - however, a transfer in Oslo is usually
-part of their journey to Latvia.
+If you are travelling to Riga from the United Kingdom we suggest flying. Ryanair
+and Norwegian Airlines provide some good options.
 
-If you are travelling from any other European country, we suggest looking at
-[airbaltic.com](http://airbaltic.com), as they have direct flights from many
-European cities, including Prague, Paris, and Vilnius.
+If you are travelling from any other European country, we suggest checking
+[airbaltic.com](http://airbaltic.com) who have direct flights from many European
+cities such as Prague, Paris, and Vilnius.
