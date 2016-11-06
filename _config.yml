@@ -52,8 +52,8 @@ social:
 
 # Build settings
 markdown: kramdown
-#sass:
-#  style: compressed
+sass:
+  style: compressed
 
 gems:
   - jekyll-minifier
