@@ -21,9 +21,9 @@ explore the city by foot, and gives easy access to transportation if you wish to
 travel outside the capital. We suggest considering the options on
 [booking.com](http://booking.com).
 
-Here are a few recommended hotels, from which we plan to provide pickup on the
-wedding day. Please note that we are considering group rate options and hope to
-update this space with new information.
+Here are a few recommended hotels, all within walking distance to a pickup point
+for our wedding day. Please note that we are considering group rate options and
+hope to update this space with new information.
 
 ### Grand Palace Hotel
 
