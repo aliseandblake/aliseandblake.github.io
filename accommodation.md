@@ -29,6 +29,8 @@ update this space with new information.
 
 **[http://grandpalaceriga.com/](http://grandpalaceriga.com/) - 5 Star Luxury Hotel, 4.5/5 on Trip Advisor**
 
+**~€170/night**
+
 *Built in 1877 as the Central Bank of Latvia, it was turned into a boutique
 5-star superior hotel in the year 2000 offering a place of warmth and comfort,
 accompanied by attentive and impeccable service.*
@@ -52,6 +54,8 @@ hotel has been upgraded from 5-star to 5-star Superior.*
 
 **[http://www.hotelbergs.lv/](http://www.hotelbergs.lv/) - 5 Star Luxury Hotel, 4.5/5 on Trip Advisor**
 
+**~€190/night**
+
 *Contemporary chic in the center of Riga- Hotel Bergs is a smart, five-star
 haven in the charming historical quarter known as the Bergs Bazaar with boutique
 shops and cafes.*
@@ -68,6 +72,8 @@ enjoy a spectacular night at the opera.*
 
 **[http://www.neiburgs.com/](http://www.neiburgs.com/) - 4 Star Luxury Hotel, 4.5/5 on Trip Advisor**
 
+**€120/night - please contact us for fixed-rate details**
+
 *Housed in a listed Art Nouveau building in the very heart of the Old Town of
 Riga, in a quiet and picturesque little street just off the Dome Cathedral - a
 five-minute walk from the Opera, a number of Riga concert halls and museums -
@@ -79,6 +85,8 @@ city's most popular restaurants.*
 ### Radisson Blu Elizabete Hotel
 
 **[https://www.radissonblu.com/en/elizabetehotel-riga](https://www.radissonblu.com/en/elizabetehotel-riga) - 4 Star Mid-range Hotel, 4.5/5 on Trip Advisor**
+
+**~€140/night**
 
 *Walk to top attractions such as the Freedom Monument, the Latvian National
 Museum of Art and Riga Cathedral from the Radisson Blu Elizabete Hotel, Riga.
@@ -96,6 +104,8 @@ modern audiovisual capabilities and full-service catering options.*
 ### Albert Hotel
 
 **[http://www.alberthotel.lv/](http://www.alberthotel.lv/) - 4 Star Mid-range Hotel, 4/5 on Trip Advisor**
+
+**€70/night - please contact us for fixed-rate details**
 
 *Set along a bustling cobblestone street, this tower hotel with an imposing,
 functionalist-style exterior, is a 6-minute walk from the Latvian National
