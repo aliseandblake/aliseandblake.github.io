@@ -206,7 +206,7 @@ $baseurl: '{{ site.baseurl }}/images';
 /* Section/Article */
 
   article img {
-    max-width: 60em;
+    max-width: 100%;
     max-height: 40em;
   }
 
@@ -221,9 +221,6 @@ $baseurl: '{{ site.baseurl }}/images';
       color: _palette(fg-light);
       position: relative;
       top: -0.25em;
-    }
-
-    h2 + p {
     }
 
     h3 + p {
@@ -907,8 +904,6 @@ $baseurl: '{{ site.baseurl }}/images';
       text-align: left;
       width: 50%;
       color: #fff;
-
-      background-color: #322e2b;
       border: 1em solid #FDEADA;
 
       h3 {
@@ -958,8 +953,6 @@ $baseurl: '{{ site.baseurl }}/images';
 
       @include breakpoint(small) {
         @include padding(3em, 0);
-        background-color: transparent !important;
-        border-top: solid 2px _palette(border);
         width: 100%;
 
         &:first-child {
@@ -1228,9 +1221,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
       .features {
         li {
-          @include breakpoint(small) {
-            border-top-color: _palette($p, border);
-          }
+          background-color: #322e2b;
         }
       }
 
@@ -1250,6 +1241,10 @@ $baseurl: '{{ site.baseurl }}/images';
         letter-spacing: 0;
         line-height: 110%;
         font-style: normal;
+      }
+
+      a {
+        word-wrap: break-word;
       }
 
       strong {
@@ -1385,7 +1380,6 @@ $baseurl: '{{ site.baseurl }}/images';
       position: absolute;
       right: 0;
       top: 0;
-      vertical-align: middle;
       width: 7em;
     }
 
