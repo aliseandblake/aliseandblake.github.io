@@ -72,7 +72,7 @@ enjoy a spectacular night at the opera.*
 
 **[http://www.neiburgs.com/](http://www.neiburgs.com/) - 4 Star Luxury Hotel, 4.5/5 on Trip Advisor**
 
-**€120/night - please contact us for fixed-rate details**
+**€120/night - please contact us for fixed-rate details before 1st February**
 
 *Housed in a listed Art Nouveau building in the very heart of the Old Town of
 Riga, in a quiet and picturesque little street just off the Dome Cathedral - a
@@ -105,7 +105,7 @@ modern audiovisual capabilities and full-service catering options.*
 
 **[http://www.alberthotel.lv/](http://www.alberthotel.lv/) - 4 Star Mid-range Hotel, 4/5 on Trip Advisor**
 
-**€70/night - please contact us for fixed-rate details**
+**€70/night - please contact us for fixed-rate details before 10th December**
 
 *Set along a bustling cobblestone street, this tower hotel with an imposing,
 functionalist-style exterior, is a 6-minute walk from the Latvian National
