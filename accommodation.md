@@ -70,9 +70,12 @@ enjoy a spectacular night at the opera.*
 
 ### Neiburgs Hotel
 
-**[http://www.neiburgs.com/](http://www.neiburgs.com/) - 4 Star Luxury Hotel, 4.5/5 on Trip Advisor**
+**[http://www.neiburgs.com/](http://www.neiburgs.com/) - 4 Star Luxury Hotel,
+4.5/5 on Trip Advisor**
 
-**€120/night - please contact us for fixed-rate details before 1st February**
+**For fixed-rate please
+[fill out and submit this form](https://drive.google.com/file/d/0B5p-Ruo7uA87czNOZlFRdlRTYWs/view)
+before 1st February**
 
 *Housed in a listed Art Nouveau building in the very heart of the Old Town of
 Riga, in a quiet and picturesque little street just off the Dome Cathedral - a
