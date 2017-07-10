@@ -25,8 +25,6 @@ forests.
 # Spa and Dining
 
 * [Espa spa](http://www.espariga.lv/en/)
-* [Taka spa](http://www.takaspa.lv/en/)
-* [Hotel Jurmala spa](http://www.hoteljurmala.com/en)
 * [Vincents Restaurant](https://goo.gl/maps/VjiDtxSYoqF2)
 * [Biblioteka Number 1 Restaurant](https://goo.gl/maps/quo1AmD4vDB2)
 * [Restaurant 3](https://goo.gl/maps/RAhiW8QvDJs)
@@ -69,9 +67,10 @@ forests.
 * Liepaja
     - [Liepaja Lake Watchtower](https://www.tripadvisor.co.uk/Attraction_Review-g274965-d12559129-Reviews-Liepaja_lake_watchtower-Liepaja_Kurzeme_Region.html)
     - [BB Wakepark](https://www.tripadvisor.co.uk/Attraction_Review-g274965-d8442501-Reviews-BB_wakepark-Liepaja_Kurzeme_Region.html)
+    - [Karosta Prison Museum and Activities](http://karostascietums.lv/en/)
 * Kuldiga
     - [Pelci Palace](https://www.tripadvisor.co.uk/Attraction_Review-g277824-d11811352-Reviews-Pelci_Palace-Kuldiga_Kurzeme_Region.html)
     - [Venta Waterfall](https://www.tripadvisor.co.uk/Attraction_Review-g277824-d1458190-Reviews-Venta_Waterfall-Kuldiga_Kurzeme_Region.html)
+    - [Goldingen Room Restaurant](https://goo.gl/maps/3d1XWrvXWvR2)
 * Cesis
     - [Cesis Medieval Castle](https://www.tripadvisor.co.uk/Attraction_Review-g274961-d3442997-Reviews-Cesis_Medieval_Castle-Cesis_Vidzeme_Region.html)
-    - [Valmiermuiza Brewery](https://goo.gl/maps/iSUc2YvFcy12)
