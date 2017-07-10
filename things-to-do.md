@@ -44,6 +44,7 @@ forests.
 # Local snacks and beer
 
 * [LIDO cafes (various locations)](https://goo.gl/maps/YZiPJvTvPLn)
+* ["The Cave" Folk club and bar](https://goo.gl/maps/R4seodsRg1S2)
 * [Laima Chocolate Shop](https://goo.gl/maps/q7WpmhmXWv72)
 * [Riga Balsams liqueur/truffles/bar](http://www.blackmagic.lv/en/balzams)
 * [Valmiermuiza Beer Shop and Bar](https://goo.gl/maps/7PwgbxNFq3k)
