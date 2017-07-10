@@ -19,6 +19,7 @@ forests.
 * [Dzintari Forest Park](http://www.latvia.travel/en/sight/dzintari-forest-park)
 * [Jurmala Beach](http://www.latvia.travel/en/city/jurmala-8)
 * [Kemeru National Park](http://www.kemerunacionalaisparks.lv/?r=26)
+* [Marupe Wake Park](https://goo.gl/maps/ZboHctwypmr)
 
 
 # Spa and Dining
@@ -39,6 +40,9 @@ forests.
 * [Art Nouveau Museum](https://goo.gl/maps/SfmZWBZFrEG2)
 * [Zinatnu Academy (city view)](https://goo.gl/maps/eVu68VhNmDp)
 * [Freedom Monument (and surrounding Bastejkalns park)](https://goo.gl/maps/uFsRohGGxjk)
+* [National Library of Latvia](https://goo.gl/maps/CsqSAyEQJxT2)
+* [Latvian National Museum of Art](https://goo.gl/maps/ZL8wp998y4S2)
+* [Riga Old Town Walking Tour](http://www.aroundlatvia.com/riga-old-town-walking-tour/)
 
 
 # Local snacks and beer
@@ -50,3 +54,24 @@ forests.
 * [Valmiermuiza Beer Shop and Bar](https://goo.gl/maps/7PwgbxNFq3k)
 * [Labietis Hipster Microbrewery](https://goo.gl/maps/MtnQ49LEN8G2)
 * [Delisnack American-style burgers (open late)](https://goo.gl/maps/TNb6L2XFnc82)
+
+
+# Day trips outside Riga
+
+* Sigulda
+    - [Turaida Castle and Gardens](https://www.tripadvisor.co.uk/Attraction_Review-g274969-d289077-Reviews-Turaida_Castle-Sigulda_Vidzeme_Region.html)
+    - [Aerodium Artificial Skydiving](https://www.tripadvisor.co.uk/Attraction_Review-g274969-d1170177-Reviews-Aerodium-Sigulda_Vidzeme_Region.html)
+    - [Forest Cat Adventure Park](https://www.tripadvisor.co.uk/Attraction_Review-g274969-d2423050-Reviews-Mezakakis_Adventure_Park-Sigulda_Vidzeme_Region.html)
+    - [Krimulda Castle Ruins](https://www.tripadvisor.co.uk/Attraction_Review-g274969-d8808313-Reviews-The_Krimulda_Castle_Ruins-Sigulda_Vidzeme_Region.html)
+* Ventspils
+    - [Ventspils Beach](https://www.tripadvisor.co.uk/Attraction_Review-g274972-d3348854-Reviews-Ventspils_Beach-Ventspils_Kurzeme_Region.html)
+    - [Castle of the Livonian Order](https://www.tripadvisor.co.uk/Attraction_Review-g274972-d6697368-Reviews-The_Castle_of_the_Livonian_order-Ventspils_Kurzeme_Region.html)
+* Liepaja
+    - [Liepaja Lake Watchtower](https://www.tripadvisor.co.uk/Attraction_Review-g274965-d12559129-Reviews-Liepaja_lake_watchtower-Liepaja_Kurzeme_Region.html)
+    - [BB Wakepark](https://www.tripadvisor.co.uk/Attraction_Review-g274965-d8442501-Reviews-BB_wakepark-Liepaja_Kurzeme_Region.html)
+* Kuldiga
+    - [Pelci Palace](https://www.tripadvisor.co.uk/Attraction_Review-g277824-d11811352-Reviews-Pelci_Palace-Kuldiga_Kurzeme_Region.html)
+    - [Venta Waterfall](https://www.tripadvisor.co.uk/Attraction_Review-g277824-d1458190-Reviews-Venta_Waterfall-Kuldiga_Kurzeme_Region.html)
+* Cesis
+    - [Cesis Medieval Castle](https://www.tripadvisor.co.uk/Attraction_Review-g274961-d3442997-Reviews-Cesis_Medieval_Castle-Cesis_Vidzeme_Region.html)
+    - [Valmiermuiza Brewery](https://goo.gl/maps/iSUc2YvFcy12)
