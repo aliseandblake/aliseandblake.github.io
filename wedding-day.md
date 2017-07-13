@@ -17,18 +17,18 @@ you may have in your RSVP.
 
 Please find information below on the main plan and schedule for the wedding.
 
-* September 12, 2017
-    - 11AM-12PM: Bus leaves from Riga city centre to bring guests to Malpils Manor.
-    - 1PM: Arrival to venue, greeted by event master and check-in at the Manor Hotel.  Free time to refresh, have a coffee, relax.
-    - 1:45PM: Please take your seats (you will find information about the ceremony location upon arrival).
-    - 2PM: Ceremony starts.
-    - 3PM: Champagne and Hours d'Ouvers, photos taken.
-    - 5PM-Midnight: Dinner, speeches, dancing and much more.
-    - Midnight: Latvian midnight wedding ritual followed by wedding cake.
-    - After midnight: Join us as we dance the night away!
-* September 13, 2017
-    - Late Morning: Brunch, drinks, mingling.
-    - 2PM: Bus returns to Riga.
+| **September 12**  |        |
+| 11AM-12PM         | Bus leaves from Riga city centre to bring guests to Malpils Manor. |
+| 1PM               | Arrival to venue, greeted by event master and check-in at the Manor Hotel.  Free time to refresh, have a coffee,  relax. |
+| 1:45PM            | Please take your seats (you will find information about the ceremony location upon arrival). |
+| 2PM               | Ceremony starts. |
+| 3PM               | Champagne and Hours d'Ouvers, photos taken. |
+| 5PM-Midnight      | Dinner, speeches, dancing and much more. |
+| Midnight          | Latvian midnight wedding ritual followed by wedding cake. |
+| After midnight    | Join us as we dance the night away! |
+| **September 13**  |       |
+| Late Morning      | Brunch, drinks, mingling. |
+| 2PM               | Bus returns to Riga.      |
 
 These times are only provisional.
 

@@ -19,11 +19,11 @@ forests.
 * [Dzintari Forest Park](http://www.latvia.travel/en/sight/dzintari-forest-park)
 * [Jurmala Beach](http://www.latvia.travel/en/city/jurmala-8)
 * [Kemeru National Park](http://www.kemerunacionalaisparks.lv/?r=26)
-* [Marupe Wake Park](https://goo.gl/maps/ZboHctwypmr)
 
 
 # Spa and Dining
 
+* [Taka spa](https://goo.gl/maps/vuGBEa2aApE2)
 * [Espa spa](http://www.espariga.lv/en/)
 * [Vincents Restaurant](https://goo.gl/maps/VjiDtxSYoqF2)
 * [Legend Beach Restaurant](https://goo.gl/maps/NZs4kFyo4yM2)
@@ -51,8 +51,7 @@ forests.
 * [Laima Chocolate Shop](https://goo.gl/maps/q7WpmhmXWv72)
 * [Riga Balsams liqueur/truffles/bar](http://www.blackmagic.lv/en/balzams)
 * [Valmiermuiza Beer Shop and Bar](https://goo.gl/maps/7PwgbxNFq3k)
-* [Labietis Hipster Microbrewery](https://goo.gl/maps/MtnQ49LEN8G2)
-* [Delisnack American-style burgers (open late)](https://goo.gl/maps/TNb6L2XFnc82)
+* [Labietis Microbrewery](https://goo.gl/maps/MtnQ49LEN8G2)
 
 
 # Day trips outside Riga
@@ -64,16 +63,12 @@ forests.
     - [Forest Cat Adventure Park](https://www.tripadvisor.co.uk/Attraction_Review-g274969-d2423050-Reviews-Mezakakis_Adventure_Park-Sigulda_Vidzeme_Region.html)
     - [Krimulda Castle Ruins](https://www.tripadvisor.co.uk/Attraction_Review-g274969-d8808313-Reviews-The_Krimulda_Castle_Ruins-Sigulda_Vidzeme_Region.html)
 * Kuldiga, Liepaja, Ventspils, and Jurkalne
-    - [Pelci Palace](https://www.tripadvisor.co.uk/Attraction_Review-g277824-d11811352-Reviews-Pelci_Palace-Kuldiga_Kurzeme_Region.html)
     - [Venta Waterfall](https://www.tripadvisor.co.uk/Attraction_Review-g277824-d1458190-Reviews-Venta_Waterfall-Kuldiga_Kurzeme_Region.html)
     - [Goldingen Room Restaurant](https://goo.gl/maps/3d1XWrvXWvR2)
     - [Liepaja Lake Watchtower](https://www.tripadvisor.co.uk/Attraction_Review-g274965-d12559129-Reviews-Liepaja_lake_watchtower-Liepaja_Kurzeme_Region.html)
-    - [Karosta Prison Museum and Activities](http://karostascietums.lv/en/)
     - [Ventspils Beach](https://www.tripadvisor.co.uk/Attraction_Review-g274972-d3348854-Reviews-Ventspils_Beach-Ventspils_Kurzeme_Region.html)
     - [Castle of the Livonian Order](https://www.tripadvisor.co.uk/Attraction_Review-g274972-d6697368-Reviews-The_Castle_of_the_Livonian_order-Ventspils_Kurzeme_Region.html)
     - [Jurkalne Beach](https://goo.gl/maps/3V3yyeyh8Ek)
 * Rundale Palace and Jelgava
     - [Rundale Palace](https://goo.gl/maps/jMN1ReGYnt62)
     - [Jelgava Palace](https://www.tripadvisor.co.uk/Attraction_Review-g277825-d3781079-Reviews-Jelgava_Palace-Jelgava_Zemgale_Region.html)
-    - [Mitava Walking Bridge](https://www.tripadvisor.co.uk/Attraction_Review-g277825-d9707175-Reviews-Pedestrian_Bridge_Mitava-Jelgava_Zemgale_Region.html)
-    - [Blankenfeldes Manor](https://www.tripadvisor.co.uk/Attraction_Review-g277825-d6956528-Reviews-Blankenfeldes_Muiza-Jelgava_Zemgale_Region.html)

@@ -753,6 +753,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
     td {
       padding: 0.75em 0.75em;
+      min-width: 10em;
     }
 
     th {
@@ -1252,6 +1253,13 @@ $baseurl: '{{ site.baseurl }}/images';
         display: block;
         font-size: 0.7em;
         font-weight: inherit;
+      }
+
+      table strong {
+        margin: 1em 1em;
+        display: inherit;
+        font-size: 1em;
+        font-weight: bold;
       }
 
       > h3 {
