@@ -4,43 +4,52 @@ title: Wedding Day
 permalink: /wedding-day
 ---
 
-Our wedding will take place in
+Our wedding ceremony and celebration throughout the night will take place in
 [Malpils Manor](http://malpilsmuiza.lv/en/wedding-celebration/), about an hour
-away from Riga, in the countryside.  This venue will be home to our wedding
-ceremony, reception, and accommodation for the night.
+away from Riga, in the countryside.  Accommodation and transportation to/from
+the venue will be provided, and we kindly ask you to include any requirements
+you may have in your RSVP.
 
 ![Forest](../images/lovestory-1.JPG)
 
+
 # Order of proceedings
 
-* 12 September
-    - Morning: bus leaves from Riga to bring guests to Malpils Manor
-    - 3PM: Ceremony begins
-    - 5PM-Midnight: Traditions, dancing, music
-    - Midnight-Late: Further dancing
-* 13 September
-    - Late Morning: breakfast
-    - Early afternoon: Mingling, drinks, barbecue
-    - 4PM: Bus returns to Riga
-    - Evening: possibly a visit to a folk club in Riga
+Please find information below on the main plan and schedule for the wedding.
+
+* September 12, 2017
+    - 11AM-12PM: Bus leaves from Riga city centre to bring guests to Malpils Manor.
+    - 1PM: Arrival to venue, greeted by event master and check-in at the Manor Hotel.  Free time to refresh, have a coffee, relax.
+    - 1:45PM: Please take your seats (you will find information about the ceremony location upon arrival).
+    - 2PM: Ceremony starts.
+    - 3PM: Champagne and Hours d'Ouvers, photos taken.
+    - 5PM-Midnight: Dinner, speeches, dancing and much more.
+    - Midnight: Latvian midnight wedding ritual followed by wedding cake.
+    - After midnight: Join us as we dance the night away!
+* September 13, 2017
+    - Late Morning: Brunch, drinks, mingling.
+    - 2PM: Bus returns to Riga.
+
+These times are only provisional.
+
 
 # Attire
 
-Semi-formal (suits and appropriate dresses).
-
-The wedding's color scheme is greens and whites.
-
-The groom will wear a navy tuxedo.
+There are no restrictions or requests on what you should or should not wear;
+please feel free to wear traditional dress or anything else you wish.  Most
+wedding guests in Latvia choose to wear semiformal clothing - suits and dresses.
 
 In September the temperature is likely to be around 12 degrees celcius (55
 farenheit), and rain is unpredictable.  We suggest to bring a light jacket.
 
-# Formalities
 
-Latvian tradition is to bring flowers to the newlywed couple on the day of the
-wedding.  On the wedding day, the wedding organisers will give guests each a
-flower to bring.
+# Traditions and Gifts
 
-We kindly ask that guests do not bring gifts.  We are not using a wedding
-registry.  If you would like to contribute towards a honeymoon, please speak to
-xyz.
+It is a Latvian tradition to congratulate the couple after the wedding ceremony
+by gifting flowers.  The choice of gifting flowers at our wedding is white
+lysanthius.  These flowers will be available at the Manor for you to collect
+prior to the ceremony.
+
+Your presence at our wedding is all that we wish for. However if you want to
+give a gift, we will be grateful to receive a small cash donation towards our
+honeymoon.
