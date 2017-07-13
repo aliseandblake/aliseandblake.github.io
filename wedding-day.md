@@ -16,6 +16,7 @@ you may have in your RSVP.
 # Order of proceedings
 
 Please find information below on the main plan and schedule for the wedding.
+These times are only provisional.
 
 | **September 12**  |        |
 | 11AM-12PM         | Bus leaves from Riga city centre to bring guests to Malpils Manor. |
@@ -29,8 +30,6 @@ Please find information below on the main plan and schedule for the wedding.
 | **September 13**  |       |
 | Late Morning      | Brunch, drinks, mingling. |
 | 2PM               | Bus returns to Riga.      |
-
-These times are only provisional.
 
 
 # Attire
