@@ -38,6 +38,9 @@ There are no restrictions or requests on what you should or should not wear;
 please feel free to wear traditional dress or anything else you wish.  Most
 wedding guests in Latvia choose to wear semiformal clothing - suits and dresses.
 
+In the following morning for brunch the same applies - wear what you like. For
+reference, we will be dressed smart-casual.
+
 In September the temperature is likely to be around 12 degrees celcius (55
 farenheit), and rain is unpredictable.  We suggest to bring a light jacket.
 
