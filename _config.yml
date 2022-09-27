@@ -55,5 +55,5 @@ markdown: kramdown
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-minifier
